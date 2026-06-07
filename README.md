@@ -1,27 +1,88 @@
-# Hey, I'm Mahir Dhiyan Chowdhury 👋  
-Nice to meet you!  
+# Hey, I'm Mahir Dhiyan Chowdhury 👋
 
-I'm a self-taught, self-motivated web developer with a passion for creating dynamic and user-friendly web applications.  
+Welcome to my GitHub profile!
 
-Currently, I'm a senior engineering student at [CUET](https://en.wikipedia.org/wiki/Chittagong_University_of_Engineering_%26_Technology) in the Department of Mechanical Engineering. 🎓  
+I'm a Mechanical Engineering graduate from CUET with a passion for technology, data, operations, and problem-solving. I enjoy leveraging engineering principles, analytics, and emerging technologies to solve real-world challenges and drive continuous improvement.
 
-I work with technologies like:  
-- ⚛️ React  
-- 🌐 HTML  
-- 🎨 CSS  
-- 💻 JavaScript  
-- 🦸‍♂️ Tailwind CSS  
-- 🪶 DaisyUI  
-- 🚀 Node.js  
-- 🏗️ Express.js  
-- 🗄️ MongoDB  
-- 🔥 Firebase  
+## 🎓 Education
 
-I'm building a strong foundation in Data Structures and Algorithms 🧠 and currently learning TypeScript 🔤.  
+**BSc in Mechanical Engineering**
+Chittagong University of Engineering & Technology (CUET)
 
-Excited to explore Machine Learning 🤖 and discover new technologies to enhance my skillset.  
+---
 
-I'm currently looking to collaborate on React frontend roles 🔗.
-If you'd like to connect or work together, feel free to reach out to me at my email: [mahird.chowdhury@gmail.com](mailto:mahird.chowdhury@gmail.com) 📧.  
+## 🎯 Current Interests
 
-Let's build something amazing together! 🚀✨
+* Data Analysis & Business Intelligence
+* Operations Management
+* Supply Chain & Procurement
+* Engineering Sales
+* Artificial Intelligence & Machine Learning
+* Process Optimization & Continuous Improvement
+
+---
+
+## 💻 Technical Skills
+
+### Programming & Development
+
+* Python
+* JavaScript
+* C
+* C++
+* SQL
+* React
+* TypeScript (Learning)
+
+### Data & Analytics
+
+* Power BI
+* Microsoft Excel
+* Data Analysis
+* Data Visualization
+
+### AI & Machine Learning
+
+* PyTorch
+* Machine Learning
+* AI Tools (Gemini, Antigravity)
+
+### Engineering & Simulation
+
+* SolidWorks
+* COMSOL
+* LS-DYNA
+* MATLAB
+
+### Other Tools
+
+* Firebase
+* Node.js
+* Express.js
+* MongoDB
+* Canva
+* Adobe Premiere Pro
+
+---
+
+## 🌱 About Me
+
+* Strong interest in data-driven decision making and operational excellence
+* Passionate about supply chain, procurement, and business strategy
+* Enjoy working on analytical and problem-solving challenges
+* Continuously learning new technologies and industry best practices
+* Open to opportunities in Data Analysis, Operations, Supply Chain, Engineering Sales, and related fields
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Portfolio: https://www.mahirdhiyan.me/
+
+💼 LinkedIn: https://www.linkedin.com/in/mahir-dhiyan/
+
+📧 Email: [mahird.chowdhury@gmail.com](mailto:mahird.chowdhury@gmail.com)
+
+---
+
+*"Driven by curiosity, continuous learning, and the pursuit of impactful solutions."*
